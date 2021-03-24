@@ -1,0 +1,18 @@
+qiskit-terra>=0.16.0
+qiskit-ignis>=0.4.0
+scipy>=1.4
+sympy>=1.3
+numpy>=1.17
+psutil>=5
+scikit-learn>=0.20.0
+dlx
+docplex; sys_platform != 'darwin'
+docplex==2.15.194; sys_platform == 'darwin'
+fastdtw
+setuptools>=40.1.0
+h5py
+pandas
+quandl
+yfinance
+retworkx>=0.7.0
+dataclasses; python_version < '3.7'
